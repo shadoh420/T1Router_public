@@ -2,6 +2,10 @@
 
 It's a plugin for Tribes 1 (1.40) that allows players to record their routes and then display them as visual markers in-game.
 
+![image](https://github.com/user-attachments/assets/f3970ee3-7b73-494f-a6ca-48ff36610db3)
+
+
+
 ## Features
 
 *   **Route Recording:** Record your player's position and velocity at set intervals.
