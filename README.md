@@ -7,7 +7,7 @@ It's a plugin for Tribes 1 (1.40) that allows players to record their routes and
 *   **Route Recording:** Record your player's position and velocity at set intervals.
 *   **Route Saving:**
     *   Routes are saved automatically as `MapName_Team_Route#.txt`.
-    *   Saved to a `MyRoutes` subfolder within your user's "My Documents" directory (created automatically if it doesn't exist).
+    *   Saved to a `MyRoutes` subfolder within your "My Documents" directory (created automatically if it doesn't exist).
     *   Users can rename the `.txt` files to be more descriptive (e.g., "BE west fast.txt").
 *   **Route Playback:**
     *   Load saved routes from the in-game menu.
