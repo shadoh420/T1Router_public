@@ -1,4 +1,4 @@
-# T1Router - Route Recording & Playback Plugin for Tribes 1
+# T1Router - Route Plugin for Tribes 1
 
 It's a plugin for Tribes 1 (1.40) that allows players to record their routes and then display them as visual markers in-game.
 
